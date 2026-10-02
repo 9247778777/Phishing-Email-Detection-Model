@@ -2,7 +2,7 @@ Project Objective
 
 Build a machine learning model using Scikit-learn to detect whether an email is Phishing or Safe by analyzing its textual content and selected email features.
 
-Key Features
+Key Features :
 
 1. Dataset Training
      Use a labeled dataset containing phishing and legitimate emails.
@@ -36,6 +36,9 @@ Pandas
 NumPy
 Matplotlib
 
+Expected Outcome :
+
+The model classifies emails as Phishing or Safe based on textual content and selected URL-related features. Its performance is evaluated using accuracy and a confusion matrix, along with precision, recall, and F1-score.
 
 
       
