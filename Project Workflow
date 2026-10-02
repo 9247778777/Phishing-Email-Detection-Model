@@ -1,0 +1,20 @@
+        Email Dataset
+              ↓
+        Data Cleaning
+              ↓
+       Feature Extraction
+        ↓             ↓
+   Email Text       URL Features
+        ↓             ↓
+        └──────┬──────┘
+               ↓
+        Train ML Model
+               ↓
+          Test Model
+               ↓
+       Classification
+        ↓           ↓
+    Phishing      Safe
+               ↓
+      Accuracy & Confusion
+           Matrix
